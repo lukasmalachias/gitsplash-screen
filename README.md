@@ -7,4 +7,4 @@
 
 
 ![LukasMalachias GitHub stats](https://github-readme-stats.vercel.app/api?username=lukasmalachias&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasmalachias&layout=compact&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukasmalachias&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
