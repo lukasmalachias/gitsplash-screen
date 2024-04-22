@@ -1,8 +1,7 @@
   ###  Hello, i'm Lucas !!
 
-- 🔭 I am currently working on own projects.
-- 🌱 I’m currently learning HTML, CSS, JS and PYTHON.
-- 🤔 I'm looking for help getting my first tech job.
+- 🔭 I'm currently a dev.
+- 🌱 I’m currently learning REACT.
 - 📫 How to reach me: https://api.whatsapp.com/send/?phone=5519992708149&app_absent=0 or santosmalachias@gmail.com
 
 
