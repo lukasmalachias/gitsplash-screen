@@ -1,7 +1,7 @@
   ###  Hello, i'm Lucas !!
 
 - 🔭 I'm currently a dev.
-- 🌱 I currently work with REACT - TYPESCRIPT - TAILWIND CSS
+- 🌱 I have experience with REACT - TYPESCRIPT - TAILWIND CSS - NODE.JS - PUPPETEER.JS - BOTCITY.PY
 - 📫 How to reach me: https://api.whatsapp.com/send/?phone=5519992708149&app_absent=0 or santosmalachias@gmail.com
 
 
