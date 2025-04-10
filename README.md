@@ -1,4 +1,4 @@
-## 👋 Hello! I'm Lucas
+## Hello! I'm Lucas
 
 - 💻 Currently working as a developer
 - ⚙️ Tech Stack: **React**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Puppeteer.js**, **BotCity.py**
